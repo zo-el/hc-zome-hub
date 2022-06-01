@@ -1,0 +1,6 @@
+[submodule "hc-utils"]
+	path = hc-utils
+	url = git@github.com:holochain/hc-utils.git
+[submodule "hc-zome-lib"]
+	path = hc-zome-lib
+	url = git@github.com:holochain/hc-zome-lib.git
